@@ -1,2 +1,2 @@
 # allTests
-#[] - test push
+test push
